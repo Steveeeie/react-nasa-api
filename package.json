@@ -52,5 +52,5 @@
       "!src/**/index.js"
     ]
   },
-  "homepage": "http://www.stevemeredith.com/github-api-react-app/"
+  "homepage": "http://www.stevemeredith.com/react-nasa-api/"
 }
