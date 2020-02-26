@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.js": "/github-api-react-app/static/js/main.d697a69b.chunk.js",
+    "main.js.map": "/github-api-react-app/static/js/main.d697a69b.chunk.js.map",
+    "runtime-main.js": "/github-api-react-app/static/js/runtime-main.5a8d8820.js",
+    "runtime-main.js.map": "/github-api-react-app/static/js/runtime-main.5a8d8820.js.map",
+    "static/js/2.aba86aea.chunk.js": "/github-api-react-app/static/js/2.aba86aea.chunk.js",
+    "static/js/2.aba86aea.chunk.js.map": "/github-api-react-app/static/js/2.aba86aea.chunk.js.map",
+    "index.html": "/github-api-react-app/index.html",
+    "precache-manifest.88beef53a1ac977cbc3c29e970a6c2ab.js": "/github-api-react-app/precache-manifest.88beef53a1ac977cbc3c29e970a6c2ab.js",
+    "service-worker.js": "/github-api-react-app/service-worker.js",
+    "static/js/2.aba86aea.chunk.js.LICENSE.txt": "/github-api-react-app/static/js/2.aba86aea.chunk.js.LICENSE.txt",
+    "static/media/icon-audio.svg": "/github-api-react-app/static/media/icon-audio.efaa42d4.svg",
+    "static/media/icon-checkbox-empty.svg": "/github-api-react-app/static/media/icon-checkbox-empty.dff75d5d.svg",
+    "static/media/icon-checkbox.svg": "/github-api-react-app/static/media/icon-checkbox.25b19568.svg",
+    "static/media/icon-image.svg": "/github-api-react-app/static/media/icon-image.b177de2f.svg",
+    "static/media/icon-search.svg": "/github-api-react-app/static/media/icon-search.2f4f7873.svg",
+    "static/media/icon-video.svg": "/github-api-react-app/static/media/icon-video.ca95b66e.svg",
+    "static/media/logo.svg": "/github-api-react-app/static/media/logo.49c0087c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5a8d8820.js",
+    "static/js/2.aba86aea.chunk.js",
+    "static/js/main.d697a69b.chunk.js"
+  ]
+}
