@@ -1,0 +1,46 @@
+{
+  "collection": {
+    "items": [
+      {
+        "links": [{ "href": "http://www.example.com/1.jpg" }],
+        "data": [
+          {
+            "title": "Title 1",
+            "media_type": "image",
+            "nasa_id": "1"
+          }
+        ]
+      },
+      {
+        "links": [{ "href": "http://www.example.com/2.jpg" }],
+        "data": [
+          {
+            "title": "Title 2",
+            "media_type": "image",
+            "nasa_id": "2"
+          }
+        ]
+      },
+      {
+        "links": [{ "href": "http://www.example.com/3.jpg" }],
+        "data": [
+          {
+            "title": "Title 3",
+            "media_type": "image",
+            "nasa_id": "3"
+          }
+        ]
+      },
+      {
+        "links": [{ "href": "http://www.example.com/4.jpg" }],
+        "data": [
+          {
+            "title": "Title 4",
+            "media_type": "video",
+            "nasa_id": "4"
+          }
+        ]
+      }
+    ]
+  }
+}

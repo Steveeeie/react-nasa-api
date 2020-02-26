@@ -1,0 +1,9 @@
+{
+  "collection": {
+    "items": [
+      { "href": "http://www.example.com/1.jpg" },
+      { "href": "http://www.example.com/2.jpg" },
+      { "href": "http://www.example.com/3.jpg" }
+    ]
+  }
+}
